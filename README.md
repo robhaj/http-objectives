@@ -1,6 +1,6 @@
 # Objectives
 - Describe the purpose of a web server
-- Identify the parts of a Uniform Resource Locator (URL)
+- ![Identify the parts of a Uniform Resource Locator (URL)](./url-breakdown.png)
 - Describe the parts of a URL
 - Describe the HTTP protocol
 - Identify the components of a request and response
