@@ -1,5 +1,6 @@
 # Objectives
 - Describe the purpose of a web server
+
 ![webserver-basic](./webserver-basic.gif)
 - Describe the parts of a URL
 ![url-breakdown](./url-breakdown.png)
