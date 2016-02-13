@@ -1,7 +1,7 @@
 # Objectives
 - Describe the purpose of a web server
 - Describe the parts of a URL
-  - - ![url-breakdown](./url-breakdown.png)
+![url-breakdown](./url-breakdown.png)
 - Describe the HTTP protocol
 - Identify the components of a request and response
 - Understand that HTTP requests and responses are sent as strings
