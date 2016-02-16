@@ -11,4 +11,4 @@
 - Understand that HTTP requests and responses are sent as strings
 - [Create an HTTP server with Node's http module](https://github.com/robhaj/node-http-server)
   - Identify the two parts of a route (method and path)
-  - [Access the parts of a URL with the url module](https://github.com/robhaj/node-url-module)
+  - [Access the parts of a URL with the url module](https://github.com/gSchool/node-query-string-parsing)
